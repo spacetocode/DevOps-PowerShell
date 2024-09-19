@@ -1,2 +1,1 @@
-get-computerinfo 
-get-process 1
+get-computerinfo
